@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/karlosye](https://github.com/karlosye)
 
-- 👨‍ My favourite programming language: TypeScript
+- 👨‍ My favourite programming language: **TypeScript**
 
 - 📫 How to reach me **linkedin.com/in/karlosye**
 
