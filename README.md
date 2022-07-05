@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karlos Ye</h1>
-<h3 align="center">A lvl.2 student learning Full Stack Web Development</h3>
+<h3 align="center">A lvl.3 student learning Full Stack Web Development</h3>
 
 - 🔭 I’m currently working on [travel company page](https://github.com/karlosye/Travel-company-page)
 
