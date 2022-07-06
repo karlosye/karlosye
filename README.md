@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [travel company page](https://github.com/karlosye/Travel-company-page)
 
-- 🌱 I’m currently learning ** Data Structure & Algorithm, Advanced CSS animation, Data Science in R**
+- 🌱 I’m currently learning ** Data Structure & Algorithm, Advanced CSS animation**
 
 - 👨‍💻 All of my projects are available at [https://github.com/karlosye](https://github.com/karlosye)
 
