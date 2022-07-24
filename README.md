@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **linkedin.com/in/karlosye**
 
-- ⚡ Hobbies **FlightSim**, **American Pool**
+- ⚡ Hobbies **FlightSim (MSFS2020, P3D, X-plane)**, **American Pool**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
