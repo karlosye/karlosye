@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Karlos Ye</h1>
+<h1 align="center">Hi 👋, I'm Karlos Ye 叶嘉豪</h1>
 <h3 align="center">Programmer</h3>
-
-- 🔭 I’m currently working on [travel company page](https://github.com/karlosye/Travel-company-page)
 
 - 🌱 I’m currently learning ** Data Structure & Algorithm, Advanced CSS animation**
 
