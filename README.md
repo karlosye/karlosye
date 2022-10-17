@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karlos Ye 叶嘉豪</h1>
 <h3 align="center">Programmer</h3>
 
-- 🌱 I’m currently learning ** Data Structure & Algorithm, Advanced CSS animation**
+- 🌱 I’m currently learning ** Data Structure & Algorithm (currently doing dynamic programming), Advanced CSS animation**
 
 - 👨‍💻 All of my projects are available at [https://github.com/karlosye](https://github.com/karlosye)
 
