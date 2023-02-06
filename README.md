@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Data Structure & Algorithm(Leetcode)**, **Next.js** 
 
+- 📫 Most familiar tech stacks: **React.js(Redux, Next.js), Node.js, ASP.NET**
+
 - 👨‍💻 All of my projects are available at [https://github.com/karlosye?tab=repositories](https://github.com/karlosye?tab=repositories)
 
 - 👨‍ My favourite programming language: **TypeScript**
 
 - 📫 How to reach me **linkedin.com/in/karlosye**
-
-- ⚡ Hobbies **FlightSim (MSFS2020, P3D, X-plane)**, **American Pool**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
