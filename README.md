@@ -5,6 +5,8 @@
 
 - 📫 Most familiar tech stacks: **React.js(Redux, Next.js), Node.js, ASP.NET**
 
+- 🌱 Familiar with data processing tools/frameworks: **Apache Spark, Hadoop, Numpy, Pandas, Sci-kitLearn, R**
+
 - 👨‍💻 All of my projects are available at [https://github.com/karlosye?tab=repositories](https://github.com/karlosye?tab=repositories)
 
 - 👨‍ My favourite programming language: **TypeScript, JavaScript, C#**
