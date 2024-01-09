@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Karlos(Jiahao) Ye 叶嘉豪</h1>
+<h1 align="center">Hi 👋, I'm Karlos Ye</h1>
 <h3 align="center">Programmer</h3>
 
-- 🌱 I’m currently learning **Data Structure & Algorithm(Leetcode)**, **Next.js** 
+- 🌱 I’m currently learning **WebAssembly WASM**, **RUST**, **MSFS(Microsoft Flight Simulator 2020) SDK**
 
-- 📫 Most familiar tech stacks: **React.js(Redux, Next.js), Node.js, ASP.NET**
+- 📫 Most familiar tech stacks: **React.js, Node.js,.NET**
 
 - 🌱 Familiar with data processing tools/frameworks: **Apache Spark, Hadoop, Numpy, Pandas, Sci-kitLearn, R**
 
 - 👨‍💻 All of my projects are available at [https://github.com/karlosye?tab=repositories](https://github.com/karlosye?tab=repositories)
 
-- 👨‍ My favourite programming language: **TypeScript, JavaScript, C#**
+- 👨‍ My favourite programming languages: **TypeScript, JavaScript, C#, RUST**
 
 - 📫 How to reach me **linkedin.com/in/karlosye**
 
